@@ -1,0 +1,1 @@
+INSERT INTO tb_client (name) VALUES ('placeholder');
